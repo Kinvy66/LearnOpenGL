@@ -1,2 +1,1 @@
-learnopengl_add_executable(HelloWindow HelloWindow.cpp)
-learnopengl_add_executable(HelloTriangle HelloTriangle.cpp)
+learnopengl_add_executable(01_HelloWindow 01_HelloWindow.cpp)

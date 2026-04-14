@@ -36,4 +36,4 @@
 .idea
 
 # 3rd_lib
-third_party
+third_party*
